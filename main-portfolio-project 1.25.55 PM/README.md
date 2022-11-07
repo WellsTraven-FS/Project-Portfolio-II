@@ -1,10 +1,5 @@
-## Switched to dev branch
+## Switched to new branch
 
--   gitignore added to project
--   README file added to project
+Currently working on the design of the application. Ran into a few milestones that took some time to adjust and get around.
 
-## Navigation
-
--   running into a bit of routing issues
--   created branches, milestones, and issues
--   created a pull request
+Will be working on API's starting tonight 11/7/22
