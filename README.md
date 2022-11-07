@@ -36,9 +36,29 @@ Each week I will summarize my milestone activity and progress by writing a stand
 https://www.figma.com/file/knBKHyMasPOEPyWwdBfzkF/Project-and-Portfolio-II%3A-Web-Development?node-id=5%3A214
 
 ### Milestone 2
-The four pages that I build were a Dashboard which is the opening of the application; User settings which is the user information and playlist; Search page for when you search for an artist it returns all of the artist information; lastly, Detail page for the artist after clicking on the artist from the search.
 
-What are the 4 pages/ views that you have built and how will they be used on your site?
+⚙️ Overview - What I worked on this past week
+
+<br>
+The four pages that I build were a Dashboard which is the opening of the application; User settings which is the user information and playlist; Search page for when you search for an artist it returns all of the artist information; lastly, Detail page for the artist after clicking on the artist from the search. 
+<br>
+
+🌵 Challenges - What problems did I have & how I'm addressing them
+<br>
+The problems I faced was creating the branches for the repository. I also ran into the inability of pushing the branches upstream. As a result I created a new repository, created the milestones and issues as neccessary.
+<br>
+
+🏆 Accomplishments - What is something I "leveled up" on this week
+<br>
+Creating the routes for the navigation. React is one of my favorite frameworks to build in so far. Crystal was such an amazing instructor and created a great experience!
+<br>
+
+🔮 Next Steps - What I plan to prioritize and do next
+
+<br>
+What I plan to prioritize this week are the API's. One of the many things I still struggle with is pulling the API from its source.
+
+
 
 ### Milestone 3
 
