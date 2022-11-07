@@ -33,10 +33,10 @@ Each week I will summarize my milestone activity and progress by writing a stand
 <br>
 
 ### Milestone 1
-
-For this milestone you will have created a wireframe prototype in Figma.  Post your link here, so you have easy access to it.
+https://www.figma.com/file/knBKHyMasPOEPyWwdBfzkF/Project-and-Portfolio-II%3A-Web-Development?node-id=5%3A214
 
 ### Milestone 2
+The four pages that I build were a Dashboard which is the opening of the application; User settings which is the user information and playlist; Search page for when you search for an artist it returns all of the artist information; lastly, Detail page for the artist after clicking on the artist from the search.
 
 What are the 4 pages/ views that you have built and how will they be used on your site?
 
