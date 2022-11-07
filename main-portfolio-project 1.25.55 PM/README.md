@@ -6,3 +6,5 @@
 ## Navigation
 
 -   running into a bit of routing issues
+-   created branches, milestones, and issues
+-   created a pull request
